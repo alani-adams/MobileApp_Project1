@@ -15,8 +15,3 @@ Oh, and the pictures we have on Canvas don't really look like the students do NO
 
 From the Technical Adviser/Manager:
 Wow.  Those requirements are a little... vague?  Your job is to gather as a team and figure out how we are going to make an app that meets the rough requirements and makes the customer happy.  If you think of something the cusrtomer missed, let us know.  Also, any "WOW Factor" ideas that you have that can take this project to the next level are encouraged.  You will present, AS A TEAM, your project proposals THIS FRIDAY in class.  Make sure the customer understands what you are givinbg them, how you are meeting their needs, and POINT OUT where you have augmented their great ideas with something additional or extra!
- 
-
-
-
-EXPECT either the Customer or the Tech Lead (or BOTH) to make changes/suggestions/additions to your proposed plan!
